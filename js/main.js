@@ -2,7 +2,7 @@ const SITE = {
   x: "https://x.com/FlokionSend",
   sender: "https://x.com/senderdotfamily",
   chain: "ethereum",
-  contract: "",
+  contract: "0xDcdFA13173807b29156118a1818f319dC48BA039",
 };
 
 function chartUrl() {
